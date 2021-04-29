@@ -5,13 +5,9 @@
 - 🌱 I’m currently learning ... DSA,Coding challange
 - 💬 Ask me about ... Tech
 - 📫 How to reach me: ...
+- LinkedIn [ LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/)
 - ⚡ Fun fact: ... Do enjoy and stay safe.
 
-
-
-
-
-LinkedIn [1. LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/)
 
 
 
