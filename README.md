@@ -1,12 +1,11 @@
 ### Hi Guys, I am Pankaj! 👋
 
 
-- 🔭 I’m currently working on ... Coding
-- 🌱 I’m currently learning ... DSA,Coding challange
-- 💬 Ask me about ... Tech
-- 📫 How to reach me: ...[ LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/)
-- ⚡ Fun fact: ... Do enjoy and stay safe.
-
+- 🔭 I’m currently working on : Coding
+- 🌱 I’m currently learning : DSA,Coding challange
+- 💬 Ask me about : Tech
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/) [Medium](https://pankajravi25.medium.com/)[Dev](https://dev.to/pankajkrravi) 
+- ⚡ Fun fact: Do enjoy and stay safe.
 
 
 
