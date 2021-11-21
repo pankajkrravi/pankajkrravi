@@ -1,4 +1,4 @@
-### Hello dear ones,I am Pankaj! 👋
+### Hello dear ones, I am Pankaj! 👋
 
 
 - 🔭 I’m currently working on : Coding
