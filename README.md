@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Do enjoy and stay safe.
 
 
-### Blogs on Technology : [Medium](https://pankajravi25.medium.com/)
+### Blogs on Technology : [Tech Blogs](https://pankajravi25.medium.com/)
 
 
 
