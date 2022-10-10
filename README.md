@@ -25,6 +25,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Hiding individual stats
+You can pass a query parameter &hide= to hide any specific stats with comma-separated values.
+
+Options: &hide=stars,commits,prs,issues,contribs
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+Adding private contributions count to total commits count
+You can add the count of all your private contributions to the total commits count by using the query parameter &count_private=true.
+
+Note If you are deploying this project yourself, the private contributions will be counted by default. If you are using the public Vercel instance, you need to choose to share your private contributions.
+
+Options: &count_private=true
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+Showing icons
+To enable icons, you can pass show_icons=true in the query param, like so:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+Themes
+With inbuilt themes, you can customize the look of the card without doing any manual customization.
+
+Use &theme=THEME_NAME parameter like so :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+All inbuilt themes
+Github readme stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajkrravi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkrravi)](https://github.com/pankajkrravi/github-readme-stats)
