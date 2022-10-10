@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajkrravi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/pankajkrravi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkrravi)](https://github.com/pankajkrravi/github-readme-stats)
