@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on : Coding
 - 🌱 I’m currently learning : DSA,Coding challange
 - 💬 Ask me about : Technology
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/), [Medium](https://pankajravi25.medium.com/), [Reddit](https://www.reddit.com/user/pankajravi25), [Quora](https://www.quora.com/profile/Pankaj-Kumar-Ravi), [Instagram](https://www.instagram.com/@pankaj_kumar_ravi25/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ravi/), [Medium](https://pankajravi25.medium.com/), [Reddit](https://www.reddit.com/user/pankajravi25), [Quora](https://www.quora.com/profile/Pankaj-Kumar-Ravi), [Instagram id:@@pankaj_kumar_ravi25](https://www.instagram.com/pankaj_kumar_ravi25/)
 - ⚡ Fun fact: Do enjoy and stay safe.
 
 
