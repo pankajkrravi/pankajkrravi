@@ -52,5 +52,5 @@ Use &theme=THEME_NAME parameter like so :
 All inbuilt themes
 Github readme stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajkrravi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkrravi)](https://github.com/pankajkrravi/github-readme-stats)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajkumarravi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumarravi)](https://github.com/pankajkrravi/github-readme-stats)
