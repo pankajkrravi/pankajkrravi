@@ -55,5 +55,4 @@ Github readme stats comes with several built-in themes (e.g. dark, radical, merk
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajkumarravi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumarravi)](https://github.com/pankajkrravi/github-readme-stats)
 
-Things I code with
-Python PyTorch tensorflow Docker Google Cloud Platform AWS IBM Cloud Heroku git github actions postgres MongoDB FastAPI jupyter VSCode Spacy Apache Airflow Apache Spark Ubuntu YOLO swagger nvidia Kaggle StackOverflow scipy Pandas OpenCV
+
